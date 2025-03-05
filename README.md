@@ -4,6 +4,7 @@ Only focus on RAG for Cybersecurity. Maybe some AI Agents for Cybersecurity 😂
 
 ### 1 Research
   #### **2025**
+ - (2025.01) Code Change Intention, Development Artifact and History Vulnerability: Putting Them Together for Vulnerability Fix Detection by LLM \[[paper_link](https://arxiv.org/abs/2501.14983)\]  \[[repo]\]
  - (2025.01) RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing \[[paper_link](https://arxiv.org/abs/2501.18160)\]  \[[repo]\]
   #### **2024**
  - (2024.10) ProveRAG: Provenance-Driven Vulnerability Analysis with Automated Retrieval-Augmented LLMs \[[paper_link](https://arxiv.org/abs/2410.17406)\]  \[[repo]\]
