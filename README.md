@@ -11,6 +11,7 @@ Only focus on RAG for Cybersecurity. Maybe some AI Agents for Cybersecurity 😂
  - (2024.08) A RAG-Based Question-Answering Solution for Cyber-Attack Investigation and Attribution, arxiv \[[paper_link](https://arxiv.org/abs/2408.06272)\]  \[[repo](https://github.com/sampathrajapaksha/RAG-based-QA)\]
  - (2024.08) Exploring RAG-based Vulnerability Augmentation with LLMs \[[paper_link](https://arxiv.org/abs/2408.04125)\]  \[[repo](https://github.com/VulScribeR/VulScribeR)\]
  - (2024.06) Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG, arxiv \[[paper_link](https://arxiv.org/abs/2406.11147)\]  \[[repo]\]
+ - (2024.01) Advancing TTP Analysis: Harnessing the Power of Large Language Models with Retrieval Augmented Generation \[[paper_link](https://arxiv.org/abs/2401.00280)\]  \[[repo](https://github.com/RezzFayyazi/TTP-LLM)\]
   #### **2023**
  - (2023.08) Software vulnerability detection with gpt and in-context learning, DSC23 \[[paper_link](https://ieeexplore.ieee.org/abstract/document/10381286)\]  \[[repo]\]
  - (2023.01) Contrabert: Enhancing code pre-trained models via contrastive learning, ICSE23 \[[paper_link](https://arxiv.org/abs/2301.09072)\]  \[[repo](https://github.com/shangqing-liu/ContraBERT)\]
