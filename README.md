@@ -13,6 +13,7 @@ Only focus on RAG for Cybersecurity. Maybe some AI Agents for Cybersecurity 😂
  - (2024.08) Exploring RAG-based Vulnerability Augmentation with LLMs \[[paper_link](https://arxiv.org/abs/2408.04125)\]  \[[repo](https://github.com/VulScribeR/VulScribeR)\]
  - (2024.07) MoRSE: Bridging the Gap in Cybersecurity Expertise with Retrieval Augmented Generation \[[paper_link](https://arxiv.org/abs/2407.15748)\]  \[[repo](https://github.com/Mixture-of-RAGs-Security-Experts/MoRSE)\]
  - (2024.06) Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG, arxiv \[[paper_link](https://arxiv.org/abs/2406.11147)\]  \[[repo]\]
+ - (2024.08) IRIS: LLM-Assisted Static Analysis for Detecting Security Vulnerabilities, ICLR2025 \[[paper_link](https://arxiv.org/pdf/2405.17238)\]  \[[repo](https://github.com/iris-sast/iris)\]
  - (2024.01) Advancing TTP Analysis: Harnessing the Power of Large Language Models with Retrieval Augmented Generation \[[paper_link](https://arxiv.org/abs/2401.00280)\]  \[[repo](https://github.com/RezzFayyazi/TTP-LLM)\]
   #### **2023**
  - (2023.08) Software vulnerability detection with gpt and in-context learning, DSC23 \[[paper_link](https://ieeexplore.ieee.org/abstract/document/10381286)\]  \[[repo]\]
