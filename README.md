@@ -29,7 +29,7 @@ Only focus on RAG for Cybersecurity. Maybe some AI Agents for Cybersecurity 😂
 - 
 
 2024
-- (2024.08) Large language models and code security: A systematic literature review \[[paper_link](https://arxiv.org/abs/2412.15004)\]  \[[repo]()\]
+- (2024.08) Large language models and code security: A systematic literature review \[[paper_link](https://arxiv.org/abs/2412.15004)\]  \[[repo]\]
 
 
 ## Tools
