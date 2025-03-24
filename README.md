@@ -4,6 +4,7 @@ Only focus on RAG for Cybersecurity. Maybe some AI Agents for Cybersecurity 😂
 
 ### 1 Research
   #### **2025**
+ - (2025.01) BitsAI-CR: Automated Code Review via LLM in Practice \[[📑paper_link](https://arxiv.org/abs/2501.15134)\]  
  - (2025.01) Code Change Intention, Development Artifact and History Vulnerability: Putting Them Together for Vulnerability Fix Detection by LLM \[[📑paper_link](https://arxiv.org/abs/2501.14983)\] 
  - (2025.01) RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing \[[📑paper_link](https://arxiv.org/abs/2501.18160)\]  \[[🔗repo](https://github.com/PurCL/RepoAudit)\]
   #### **2024**
@@ -31,7 +32,7 @@ Only focus on RAG for Cybersecurity. Maybe some AI Agents for Cybersecurity 😂
 - 
 
 2024
-- (2024.08) Large language models and code security: A systematic literature review \[[📑paper_link](https://arxiv.org/abs/2412.15004)\]  \[[🔗repo]\]
+- (2024.08) Large language models and code security: A systematic literature review \[[📑paper_link](https://arxiv.org/abs/2412.15004)\]  
 
 
 ## Tools
