@@ -5,7 +5,7 @@ Only focus on RAG for Cybersecurity. Maybe some AI Agents for Cybersecurity 😂
 ### 1 Research
   #### **2025**
  - (2025.01) BitsAI-CR: Automated Code Review via LLM in Practice \[[📑paper_link](https://arxiv.org/abs/2501.15134)\]  
- - (2025.01) Code Change Intention, Development Artifact and History Vulnerability: Putting Them Together for Vulnerability Fix Detection by LLM \[[📑paper_link](https://arxiv.org/abs/2501.14983)\] 
+ - (2025.01) Code Change Intention, Development Artifact and History Vulnerability: Putting Them Together for Vulnerability Fix Detection by LLM, FSE 2025 \[[📑paper_link](https://arxiv.org/abs/2501.14983)\]  \[[🔗repo](https://zenodo.org/records/13776994)\]
  - (2025.01) RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing \[[📑paper_link](https://arxiv.org/abs/2501.18160)\]  \[[🔗repo](https://github.com/PurCL/RepoAudit)\]
   #### **2024**
  - (2024.11) Enhancing Security in Third-Party Library Reuse – Comprehensive Detection of 1-day Vulnerability through Code Patch Analysis \[[📑paper_link](https://arxiv.org/pdf/2411.19648)\]  \[[🔗repo](https://anonymous.4open.science/r/Vulture-17BC)\]
@@ -16,6 +16,7 @@ Only focus on RAG for Cybersecurity. Maybe some AI Agents for Cybersecurity 😂
  - (2024.07) MoRSE: Bridging the Gap in Cybersecurity Expertise with Retrieval Augmented Generation \[[📑paper_link](https://arxiv.org/abs/2407.15748)\]  \[[🔗repo](https://github.com/Mixture-of-RAGs-Security-Experts/MoRSE)\]
  - (2024.06) Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG, arxiv \[[📑paper_link](https://arxiv.org/abs/2406.11147)\] 
  - (2024.05) PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation, NDSS2025\[[📑paper_link](https://arxiv.org/abs/2405.02580)\]  \[[🔗repo](https://github.com/Pr0pertyGPT/PropertyGPT)\]
+ - (2024.02) CyberMetric-A Benchmark Dataset based on Retrieval-Augmented Generation for Evaluating LLMs in Cybersecurity Knowledge, CSR 2024\[[📑paper_link](https://arxiv.org/abs/2402.07688)\]  \[[🔗repo](https://github.com/cybermetric/CyberMetric)\]
  - (2024.01) Advancing TTP Analysis: Harnessing the Power of Large Language Models with Retrieval Augmented Generation \[[📑paper_link](https://arxiv.org/abs/2401.00280)\]  \[[🔗repo](https://github.com/RezzFayyazi/TTP-LLM)\]
  - (2024.01) Large Language Model for Vulnerability Detection: Emerging Results and Future Directions, ICSE-NIER 2024 \[[📑paper_link](https://arxiv.org/abs/2401.15468)\]  \[[🔗repo](https://github.com/soarsmu/ChatGPT-VulDetection)\]
   #### **2023**
